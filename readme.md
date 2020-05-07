@@ -10,7 +10,7 @@ This repository contains an example of bare-metal code for PWM as described in [
 <br>Two GPIO pins are used. RE2 as an input to read the on-board button for controlling the demo and RB4 as a PWM output.
 
 ## Related Documentation
-- [TBxxxx - Getting Started with Timers/Counters on PIC18](http://www.microchip.com/)
+- [TBxxxx - Getting Started with PWM on PIC18](http://www.microchip.com/)
 - [PIC18-Q10 Product Family Page](https://www.microchip.com/design-centers/8-bit/pic-mcus/device-selection/pic18f-q10-product-family)
 - [PIC18F47Q10 Data Sheet](http://ww1.microchip.com/downloads/en/DeviceDoc/40002043D.pdf)
 - [PIC18F47Q10 Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=pic18f47q10-cnano)
