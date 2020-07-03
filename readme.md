@@ -5,12 +5,12 @@
 # PIC18F47Q10 PWM Basic Configuration
 
 ## Objective:
-This repository contains an example of bare-metal code for PWM as described in [*TBxxxx - Getting Started with PWM on PIC18*](https://www.microchip.com/) document from Microchip.
+This repository contains an example of bare-metal code for PWM as described in [*TB3270 - Getting Started with PWM Using CCP on PIC18*](http://ww1.microchip.com/downloads/en/Appnotes/Getting-Started-with-PWM-Using-CCP-on-PIC18-DS90003270A.pdf) document from Microchip.
 <br>The PIC18F47Q10 features four 10-bit PWM generators. This example describes how to configure the CCP1 peripheral in conjunction with TMR2 to produce a low speed PWM signal.
 <br>Two GPIO pins are used. RE2 as an input to read the on-board button for controlling the demo and RB4 as a PWM output.
 
 ## Related Documentation
-- [TBxxxx - Getting Started with PWM on PIC18](http://www.microchip.com/)
+- [TB3270 - Getting Started with PWM Using CCP on PIC18](http://ww1.microchip.com/downloads/en/Appnotes/Getting-Started-with-PWM-Using-CCP-on-PIC18-DS90003270A.pdf)
 - [PIC18-Q10 Product Family Page](https://www.microchip.com/design-centers/8-bit/pic-mcus/device-selection/pic18f-q10-product-family)
 - [PIC18F47Q10 Data Sheet](http://ww1.microchip.com/downloads/en/DeviceDoc/40002043D.pdf)
 - [PIC18F47Q10 Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=pic18f47q10-cnano)
