@@ -3,24 +3,24 @@
     "category": "com.microchip.ide.project",
     "content": {
         "metaDataVersion": "1.1.0",
-        "name": "com.microchip.mcu8.mplabx.project.",
-        "version": " ",
-        "displayName": "  ",
-        "projectName": "",
-        "shortDescription": "",
+        "name": "com.microchip.mcu8.mplabx.project.pic18f47q10-cnano-pwm-basic-demo-bare",
+        "version": "1.0.2",
+        "displayName": "PWM Basic Configuration",
+        "projectName": "pic18f47q10-cnano-pwm-basic-demo-bare",
+        "shortDescription": "This example describes how to configure the CCP1 peripheral in conjunction with TMR2 to produce a low speed PWM signal. Two GPIO pins are used. RE2 as an input to read the on-board button for controlling the demo and RB4 as a PWM output.",
         "ide": {
-            "name": "",
-            "semverRange": ""
+            "name": "MPLAB X",
+            "semverRange": ">=5.30.0"
         },
         "compiler": [
 			{
-				"name": "",
-				"semverRange": ""
+				"name": "XC8",
+				"semverRange": "^2.10.0"
 			}
 		],
         "dfp": {
-            "name": "",
-            "semverRange": ""
+            "name": "PIC18F-Q_DFP",
+            "semverRange": "^1.3.89"
         },
         "configurator": {
             "name": "",
@@ -32,26 +32,23 @@
             "content": {
                 "metaDataVersion": "1.0.0",
                 "category": "com.microchip.device",
-                "name": "",
+                "name": "PIC18F47Q10",
                 "versionRange": "*"
             }
         },
-        "author": "",
+        "author": "Microchip",
         "subcategories": [
-            "",
+            "Peripherals",
             [
-               "Peripherals", ""
-            ],
-            [
-               "Peripherals", ""
+               "Peripherals", "PWM",
             ]            			
         ],
         "peripherals": [
-            "",""
+            "PWM",
         ],
         "keywords": [
-            "",
-            ""			
+            "Getting Started",
+            "CCP1",
         ],
 		"additionalData": {
 			"longDescription": {
