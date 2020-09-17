@@ -1,4 +1,4 @@
-{
+w{
     "metaDataVersion": "1.0.0",
     "category": "com.microchip.ide.project",
     "content": {
@@ -40,16 +40,16 @@
         "subcategories": [
             "Peripherals",
             [
-               "Peripherals", "PWM",
+               "Peripherals", "PWM"
             ]            			
         ],
         "peripherals": [
-            "PWM",
+            "PWM"
         ],
         "keywords": [
             "Getting Started",
             "CCP1",
-			"Bare Metal",
+			"Bare Metal"
         ],
 		"additionalData": {
 			"longDescription": {
